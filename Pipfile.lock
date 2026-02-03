@@ -34,11 +34,11 @@
         },
         "gunicorn": {
             "hashes": [
-                "sha256:4b1ab820ffc316352da7146005a9e66044a131434b17a7d2a9fb0604f1268864",
-                "sha256:b9b88f0ebc5a0fcd1e9e29a1f045f56f5402c6423ee3e3f675f679d0db5345d1"
+                "sha256:23cbe968c6ae3c8efc3d118c8353fa0763efc2102d89d0d3cea696cede7ff6b1",
+                "sha256:573e053aa950246e307ea908bd7ddce1870d41a40aec0c935938c586f0b9b946"
             ],
             "index": "pypi",
-            "version": "==25.0.0"
+            "version": "==25.0.1"
         },
         "packaging": {
             "hashes": [
